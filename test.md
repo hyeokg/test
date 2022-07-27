@@ -18,10 +18,12 @@
 ![image](https://user-images.githubusercontent.com/98133984/181182281-4d01a374-62fe-4957-9a07-1efc005e35d3.png)
    - 답
    ```
-
+    git config --global user.name "홍길동"
+    git config --global user.email "support@webisfree.com"
    ```
 5. clone과 pull의 차이는 무엇인가요?
-   - 답 :
+   - 답 :it clone은 리모트 설정을 자동으로 해주는 초기 다운로드에 사용하고
+    git pull은 리모트 설정이 이미 되어있을 떄 업데이트 사항 등을 다운로드 할 때 사용 
    
 6. branch를 만드는 목적은 무엇인가요?
     - 답 : 
